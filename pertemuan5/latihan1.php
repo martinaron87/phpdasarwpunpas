@@ -25,7 +25,7 @@
 
     // menambah elemen baru pada array
     // misal, mau menambahkan kamis ke array hari
-    $hari[] = "kamis";
+    $hari[] = "sunday";
     $hari[] = "jum'at";
     var_dump($hari);
 
