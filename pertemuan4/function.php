@@ -39,6 +39,8 @@
     <title>Latihan Function</title>
 </head>
 <body>
-    <h1><?= salam(waktu: "pagi", nama: "Martin"); ?></h1>
+    <h1>
+        <?= salam(waktu: "pagi", nama: "Martin"); ?>
+    </h1>
 </body>
 </html>
